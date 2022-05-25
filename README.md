@@ -40,3 +40,5 @@ Sortino Ratio
 Stutzer Ratio  
 Treynor Ratio   
 Upside Potential Ratio 
+
+🚧 Under Construction 🚧 - to add definitions
